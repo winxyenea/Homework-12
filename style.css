@@ -1,0 +1,33 @@
+body{
+    background-color: #5BB9AD;
+    color: white;
+
+}
+table{
+    width: 800px;
+    height: 280px;
+}
+h2{
+    margin-left: 300px;
+}
+
+.first{
+    border-bottom: solid 1px white;
+    border-top: solid 1px white;
+    background-color:#83D2B4 ;
+}
+.second{
+    border-bottom: solid 1px white;
+}
+.third{
+    border-bottom: solid 1px white;
+}
+.fourth{
+    border-bottom: solid 1px white;
+}
+.fifth{
+    border-bottom: solid 1px white;
+}
+.sixth{
+    border-bottom: solid 1px white;
+}
